@@ -34,15 +34,15 @@
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jas04-11\&show_icons=true\&theme=radical&v=1)
+![Stats](https://github-readme-stats.vercel.app/api?username=jas04-11&show_icons=true&theme=radical&v=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jas04-11\&layout=compact\&theme=radical&v=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jas04-11&layout=compact&theme=radical&v=1)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=jas04-11\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jas04-11&theme=radical)
 
 ---
 
