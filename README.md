@@ -42,8 +42,7 @@
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=jas04-11&theme=radical)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=jas04-11&theme=tokyonight)](https://git.io/streak-stats)
 ---
 
 ## 📫 Connect With Me
