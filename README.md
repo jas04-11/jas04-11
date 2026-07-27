@@ -34,16 +34,11 @@
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jas04-11&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jas04-11&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=jas004&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=jas04-11&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jas04-11&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jas04-11&layout=compact&theme=tokyonight)
 
 ---
 
