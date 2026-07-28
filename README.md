@@ -31,17 +31,6 @@
 
 ---
 
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jas04-11&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jas04-11&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jas04-11&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jas04-11&theme=tokyonight)](https://git.io/streak-stats)
