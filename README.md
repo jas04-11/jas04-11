@@ -14,6 +14,55 @@
 * 💡 Love building real-world projects
 
 ---
+## 🚀 Major Projects
+
+### 🧠 HireSmart AI (Currently Working)
+
+AI-powered recruitment and resume screening platform.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Python, FastAPI, Gemini AI, TF-IDF
+
+🔗 [View Project](https://github.com/jas04-11/hiresense-ai)
+
+---
+
+### 🎯 PrepPulse
+
+AI-powered interview preparation platform for technical and HR interview practice.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Gemini API
+
+🔗 [View Project](https://github.com/jas04-11/PrepPulse)
+
+---
+
+### 📱 Telcura
+
+Healthcare-focused application designed to provide users with an accessible digital healthcare platform.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+🔗 [View Project](https://github.com/jas04-11/Telcura)
+
+---
+
+### 💼 HireHub
+
+Full-stack MERN job portal connecting candidates, companies, and administrators with role-based authentication.
+
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, JWT
+
+🔗 [View Project](https://github.com/jas04-11/HireHub)
+
+---
+
+### ✍️ InsightSphere
+
+Full-stack blogging platform for creating, managing, and exploring engaging content.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+🔗 [View Project](https://github.com/jas04-11/InsightSphere)
 
 ## 🛠️ Tech Stack
 
