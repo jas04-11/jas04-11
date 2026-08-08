@@ -24,8 +24,6 @@ AI-powered recruitment and resume screening platform.
 
 🔗 [View Project](https://github.com/jas04-11/hiresense-ai)
 
----
-
 ### 🎯 PrepPulse
 
 AI-powered interview preparation platform for technical and HR interview practice.
@@ -33,8 +31,6 @@ AI-powered interview preparation platform for technical and HR interview practic
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Gemini API
 
 🔗 [View Project](https://github.com/jas04-11/PrepPulse)
-
----
 
 ### 📱 Telcura
 
@@ -44,8 +40,6 @@ Healthcare-focused application designed to provide users with an accessible digi
 
 🔗 [View Project](https://github.com/jas04-11/Telcura)
 
----
-
 ### 💼 HireHub
 
 Full-stack MERN job portal connecting candidates, companies, and administrators with role-based authentication.
@@ -54,15 +48,15 @@ Full-stack MERN job portal connecting candidates, companies, and administrators 
 
 🔗 [View Project](https://github.com/jas04-11/HireHub)
 
----
-
 ### ✍️ InsightSphere
 
 Full-stack blogging platform for creating, managing, and exploring engaging content.
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
-🔗 [View Project](https://github.com/jas04-11/InsightSphere)
+🔗 [View Project](https://github.com/jas04-11/InsightSphereBlog)
+
+---
 
 ## 🛠️ Tech Stack
 
