@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jasleen Kaur
+# 👋 Hi, My name is Jasleen Kaur
 
 💻 MCA Student | Chandigarh University | UIC | 🚀 Aspiring Software Developer
 
