@@ -77,7 +77,8 @@ Full-stack blogging platform for creating, managing, and exploring engaging cont
 ## 🔥 Streak Stats
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jas04-11&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=jas04-11&theme=dark)
+
 ---
 
 ## 📫 Connect With Me
