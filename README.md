@@ -8,7 +8,7 @@
 ## 🌟 About Me
 
 * 🎓 MCA Student
-* 💼 Web Dev Intern @ VaultofCodes & Coding Raja
+* 💼 Web Developer Intern @ VaultofCodes & Coding Raja
 * 🧠 Learning DSA + Preparing for Placements
 * 🎯 Goal: Crack top tech companies by 2026
 * 💡 Love building real-world projects
