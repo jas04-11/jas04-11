@@ -22,7 +22,7 @@ AI-powered recruitment and resume screening platform.
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Python, FastAPI, Gemini AI, TF-IDF
 
-🔗 [View Project](https://github.com/jas04-11/hiresense-ai)
+🔗 [View Project](https://github.com/jas04-11/hiresmart-ai)
 
 ### 🎯 PrepPulse
 
