@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-* 🎓 MCA Student
+* 🎓 MCA Student @Chandigarh University
 * 💼 Web Developer Intern @ VaultofCodes & Coding Raja
 * 🧠 Learning DSA + Preparing for Placements
 * 🎯 Goal: Crack top tech companies by 2026
