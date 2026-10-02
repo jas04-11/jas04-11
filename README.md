@@ -3,7 +3,6 @@
 💻 MCA Student | Chandigarh University | UIC | 🚀 Aspiring Software Developer
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Full+Stack+Developer;DSA+Learner;Tech+Enthusiast)
-
 ---
 
 
