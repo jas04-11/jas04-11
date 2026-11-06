@@ -73,7 +73,6 @@ Full-stack blogging platform for creating, managing, and exploring engaging cont
 `NumPy` `Pandas` `Matplotlib` `SQL`
 
 ---
-
 ## 🔥 Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=jas04-11&theme=dark)](https://git.io/streak-stats)
